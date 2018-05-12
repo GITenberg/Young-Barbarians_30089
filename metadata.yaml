@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2364
     wikipedia: http://en.wikipedia.org/wiki/Ian_Maclaren
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30089#Young-Barbarians
 gutenberg_issued: '2009-09-25'
 gutenberg_type: Text
 identifiers:
